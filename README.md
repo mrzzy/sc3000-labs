@@ -2,4 +2,5 @@
 
 Labs for the SC3000 Aritifical Intellegence Module
 
-- [Lab Assignment 1](/lab1/cartpole.ipynb)
+- [Lab Assignment 1](./lab1/cartpole.ipynb)
+- [Lab Assignment 2](./lab2)
