@@ -1,3 +1,5 @@
-# Balancing a Pole on a Cart: Tutorial and Sample code.
+# SC3000 Labs
 
-To run the sample code, open the ipynb file in your browser and click "Open in Colab".
+Labs for the SC3000 Aritifical Intellegence Module
+
+- [Lab Assignment 1](/lab1/cartpole.ipynb)
