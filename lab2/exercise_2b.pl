@@ -13,5 +13,5 @@ offspring(elizabeth,andrew).
 offspring(elizabeth,edward).
 
 % inference rules
-% sucession rule: male first, female second
+% sucession rule: by birth order
 successor(X, Y) :- offspring(X, Y).
